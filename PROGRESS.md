@@ -52,6 +52,10 @@ zslab-chat :3001
         MySQL (chat_rooms, chat_participants, chat_messages)
 ```
 
+## 문서
+
+- [x] `MANUAL.md` — 설치·Nginx 연동·위젯 연동·트러블슈팅·PM2·스케일 아웃 완전 가이드 (2026-04-25)
+
 ## 사용 방법
 
 ```bash
